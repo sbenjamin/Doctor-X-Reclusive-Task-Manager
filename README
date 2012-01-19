@@ -1,0 +1,15 @@
+This application uses a configuration file: doctorXDevConfig.txt
+that is in JSON format.
+The most important parts are:
+servicesAPI - location of the services.cfc file to connect to the data layer.
+dsn - the datasource name.
+
+the file is only read on application start.
+The application can be restarted with the url string appReInit=1
+and then refresh the page again with appReInit=0.
+
+A simple MYSQL database is required.
+See the dbBackup folder for the restore data.
+
+
+

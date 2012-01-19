@@ -1,0 +1,12 @@
+{
+	"siteName"		: "doctorX.com (DEV)",			  
+	"servicesAPI"	: "cfc/services.cfc",
+	"showError" 	: true,
+	"adminEmails" 	: ["@0P]WUU$AH\"B;3G>0XM--?5\\LTE))E\\9^\";4;/)@=$SL"],
+	"errorEmails" 	: ["@0P]WUU$AH\"B;3G>0XM--?5\\LTE))E\\9^\";4;/)@=$SL"],
+	"contactEmail"	: ["@0P]WUU$AH\"B;3G>0XM--?5\\LTE))E\\9^\";4;/)@=$SL"],
+	"title"			: "Doctor X Reclusive Task Manager",
+	"favIcon"		: "",
+	"dsn"			: "doctorX",
+	"phone"			: "480-375-8765"
+}
